@@ -1,5 +1,5 @@
 # BigProject
-BigProject App repository
+##### BigProject App repository
 Une application TUI contenant des outils numériques basiques
 *BigProject - L'application capable de tout (ou preque !)*
 
