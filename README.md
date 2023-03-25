@@ -4,6 +4,7 @@ Une application TUI contenant des outils numériques basiques
 *BigProject - L'application capable de tout (ou presque !)*
 
 ## Langage de Code
+### Batch
 ### Python
 #### Modules
 1. Time
