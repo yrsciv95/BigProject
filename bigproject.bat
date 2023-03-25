@@ -1,9 +1,9 @@
 cls
 @echo off
 echo.
-echo BigProject Laucher   -   Microsoft Corp.
+echo BigProject Launcher   -   Microsoft Corp.
 echo.
-echo ****************************************
+echo *****************************************
 echo.
 pause
 echo.
