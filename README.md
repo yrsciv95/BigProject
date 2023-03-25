@@ -16,15 +16,15 @@ Une application TUI contenant des outils numériques basiques
 
 ## Features
 ### Outils
-1. Généreateur Ultime
-2. Calculateur d'IMC
-3. Calculateur d'Âge (grâce à la date de naissance)
-4. Calculateur de Salaire
-5. Calculateur de Diviseurs
+1. [Généreateur Ultime]()
+2. [Calculateur d'IMC]()
+3. [Calculateur d'Âge (grâce à la date de naissance)](https://github.com/yrsciv95/BigProject/blob/BigProject/source_code/calcage.py)
+4. [Calculateur de Salaire]()
+5. [Calculateur de Diviseurs]()
 
 ### Jeux
-1. Pierre, Feuille, Ciseaux
-2. Juste Prix
-3. Roulette Russe
-4. Roulette
-5. Dés
+1. [Pierre, Feuille, Ciseaux]()
+2. [Juste Prix]()
+3. [Roulette Russe]()
+4. [Roulette]()
+5. [Dés]()
