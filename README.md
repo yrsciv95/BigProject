@@ -13,6 +13,7 @@ Une application TUI contenant des outils numériques basiques
 3. DateTime
 4. Random
 5. String 
+6. Unidecode
 
 ## Features
 ### Outils
@@ -21,6 +22,7 @@ Une application TUI contenant des outils numériques basiques
 3. [Calculateur d'Âge (grâce à la date de naissance)](https://github.com/yrsciv95/BigProject/blob/BigProject/source_code/calcage.py "Lien vers le fichier Python de Calculateur d'Âge")
 4. [Calculateur de Salaire](https://github.com/yrsciv95/BigProject/blob/BigProject/source_code/salary.py "Lien vers le fichier Python de Calculatrice de Salaire")
 5. [Calculateur de Diviseurs](https://github.com/yrsciv95/BigProject/blob/BigProject/source_code/calcdiv.py "Lien vers le fichier Pyhton de Calculateur de Diviseurs")
+6 - 12. [D'autres projets très interessants]()
 
 ### Jeux
 1. [Pierre, Feuille, Ciseaux](https://github.com/yrsciv95/BigProject/blob/BigProject/source_code/chifoumi.py "Lien vers le fichier Python de Chifoumi")
@@ -28,3 +30,5 @@ Une application TUI contenant des outils numériques basiques
 3. [Roulette Russe](https://github.com/yrsciv95/BigProject/blob/BigProject/source_code/rouletteru.py "Lien vers le fichier Python de Roulette Russe")
 4. [Roulette](https://github.com/yrsciv95/BigProject/blob/BigProject/source_code/roulettefr.py "Lien vers le fichier Python de Roulette")
 5. [Dés](https://github.com/yrsciv95/BigProject/blob/BigProject/source_code/dice.py "Lien vers le fichier Python de Dés")
+6. [Pièce]()
+7. [Devine le mot]()
