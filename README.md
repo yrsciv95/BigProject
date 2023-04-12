@@ -10,19 +10,16 @@ Une application TUI contenant des outils numériques basiques
 #### Modules
 1. Time
 2. OS
-3. DateTime
-4. Random
-5. String 
-6. Unidecode
+3. Random
+4. String 
+5. Unidecode
 
 ## Features
 ### Outils
 1. Générateur Ultime
-2. Calculateur d'IMC
-3. Calculateur d'Âge (grâce à la date de naissance)
-4. Calculateur de Salaire
-5. Analyseur de Texte
-6. Convertisseur de Températeure
+2. Calculateur de Salaire
+3. Analyseur de Texte
+4. Convertisseur de Températeure
 
 ### Jeux
 1. Pierre, Feuille, Ciseaux
