@@ -1,5 +1,5 @@
 # BigProject
-##### BigProject TUI repository
+#### BigProject TUI repository
 Une application TUI contenant des outils numériques basiques   
 
 ## Langage de Code
