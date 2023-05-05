@@ -6,7 +6,7 @@ Une application TUI contenant des outils numériques basiques
 ### Batch
 [bigproject.bat](https://github.com/yrsciv95/BigProject/blob/BigProject/bigproject.bat "Lien vers le fichier Batch de BigProject")
 ### Python
-#### Modules
+*Modules*
 1. Time
 2. OS
 3. Random
