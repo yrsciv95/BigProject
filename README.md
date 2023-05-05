@@ -1,7 +1,6 @@
 # BigProject
 ##### BigProject TUI repository
 Une application TUI contenant des outils numériques basiques   
-*BigProject - L'application capable de tout (ou presque !)*
 
 ## Langage de Code
 ### Batch
@@ -17,13 +16,10 @@ Une application TUI contenant des outils numériques basiques
 ## Features
 ### Outils
 1. Générateur Ultime
-2. Calculateur de Salaire
-3. Analyseur de Texte
-4. Convertisseur de Températeure
+2. Analyseur de Texte
 
 ### Jeux
 1. Pierre, Feuille, Ciseaux
 2. Juste Prix
-3. Roulette Russe
-4. Dés
-5. Devine le Mot
+3. Dés
+4. Devine le Mot
