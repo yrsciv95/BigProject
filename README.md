@@ -12,11 +12,13 @@ Une application TUI contenant des outils numériques basiques
 3. Random
 4. String 
 5. Unidecode
+6. Better Profanity
 
 ## Features
 ### Outils
 1. Générateur Ultime
-2. Analyseur de Texte
+2. Convertisseur Ultime
+3. Analyseur de Texte
 
 ### Jeux
 1. Pierre, Feuille, Ciseaux
