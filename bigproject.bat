@@ -1,7 +1,7 @@
 cls
 @echo off
 echo.
-echo BigProject Launcher   -   Microsoft Corp.
+echo BigProject Launcher      -      RDL Corp.
 echo.
 echo *****************************************
 echo.
