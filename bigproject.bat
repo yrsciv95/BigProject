@@ -9,5 +9,5 @@ pause
 echo.
 echo.
 @echo off
-cd C:\Users\yorisamani\Documents\perso\nsi perso\python\BigProject
+cd C:\Users\amani\Documents\perso\nsi perso\python\BigProject
 python bigproject.py

@@ -10,25 +10,24 @@ from unidecode import unidecode
 
 
 def bigProject():
-    def welcome():
-        sleep(0.5)
-        system("cls")
-        sleep(1)
-        system("echo.")
-        print("----------------------------------------------------------------------")
-        print("            --         BIENVENUE SUR BigProject         --            ")
-        print("----------------------------------------------------------------------")
-        sleep(1.5)
-        print("")
-        print(
-            "BigProject est une application TUI, disponible uniquement sur Terminal,\nproposant plusieurs services comme des mini-jeux ou des outils basiques\npouvant simplifier la vie."
-        )
-        sleep(1)
-        print("")
-        system("pause")
-        system("cls")
+    sleep(0.5)
+    system("cls")
+    sleep(1)
+    system("echo.")
+    print("----------------------------------------------------------------------")
+    print("            --         BIENVENUE SUR BigProject         --            ")
+    print("----------------------------------------------------------------------")
+    sleep(1.5)
+    print("")
+    print(
+        "BigProject est une application TUI, disponible uniquement sur Terminal,\nproposant plusieurs services comme des mini-jeux ou des outils basiques\npouvant simplifier la vie."
+    )
+    sleep(1)
+    print("")
+    system("pause")
+    system("cls")
 
-    def opt_o():
+def opt_o():
         system("cls")
         print("-----------------------")
         print("       - Outils -      ")
@@ -47,7 +46,7 @@ def bigProject():
         if answer2 not in "0123":
             print("Entrez 1, 2 ou 3 pour faire un choix! Pour Quitter, taper 0.")
             sleep(2)
-            bigProject_()
+            opt_o()
         if answer2 == "0":
             sleep(1)
             print("Accueil...")
@@ -1110,7 +1109,9 @@ def bigProject():
                 print("0. Retour")
                 answer = input("==>  ")
                 if answer not in "1230":
-                    print("Entrez 1, 2 ou 3 pour faire un choix! Pour Quitter, taper 0.")
+                    print(
+                        "Entrez 1, 2 ou 3 pour faire un choix! Pour Quitter, taper 0."
+                    )
                     sleep(2)
                     counter()
                 if answer == "1":
@@ -1374,7 +1375,7 @@ def bigProject():
             analyse_()
         # Ajt les autres elif pr les autres outils
 
-    def opt_j():
+def opt_j():
         system("cls")
         print("---------------------------")
         print("          - Jeux -         ")
@@ -1793,7 +1794,7 @@ def bigProject():
             wrdguess()
         # ajt des elif pour les autres jeux
 
-    def bigProject_():
+def bigProject_():
         sleep(1)
         system("cls")
         print("")
@@ -1825,11 +1826,11 @@ def bigProject():
 
         bigProject_()
 
-    def bp():
-        welcome()
+def bp():
+        bigProject()
         bigProject_()
 
-    bp()
+bp()
 
 
 bigproject = bigProject()
